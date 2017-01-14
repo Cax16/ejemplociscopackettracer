@@ -7,4 +7,4 @@
 - 1 punto de acceso.  
 
 
-![title](pt2.png)
+!(pt2.png)
